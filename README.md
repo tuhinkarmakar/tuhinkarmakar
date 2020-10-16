@@ -1,4 +1,4 @@
-[![Tensai Sensei](https://media-exp1.licdn.com/dms/image/C5616AQG88By7F_DDdg/profile-displaybackgroundimage-shrink_350_1400/0?e=1600905600&v=beta&t=aVb6099H4aKBT7CfOuNsXXzqzyTxWhjlKLF9Hz-LXX4)](https://tuhinkarmakar.me)
+[![Tensai Sensei](images/hero.png)](https://tuhinkarmakar.me)
 
 # Yo! I'm Tuhin ✌️
 
