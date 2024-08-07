@@ -1,4 +1,4 @@
-[![Tensai Sensei](images/hero.png)](https://tuhinkarmakar.me)
+![Hero image featuring Tuhin's tagline and certifications](images/hero.png)
 
 # Yo! I'm Tuhin ✌️
 
