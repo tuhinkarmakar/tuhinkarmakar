@@ -6,7 +6,6 @@
 	<img align="right" src="https://static.fsf.org/nosvn/appeal2020/spring/1-world.png" alt="Let's Fight for a World with Software Freedom!">
 </a>
 
-## Angular Wizard | JavaScript Junkie | AWS Explorer | Python Enthusiast
 I develop delightful web apps using modern web technologies. I have extensive experience with JavaScript, TypeScript, Angular and Vue.js. I am also familiar with Node.js, Python, Java and the Salesforce ecosystem. I majored in Electronics & Communication Engineering. During my years at the university, I developed a keen interest towards computer programming and embarked on a self-learning journey. I stay at the forefront of technology, continuously exploring the latest advancements.
 
 - 🔭 **I’m currently working on**: Serverless web apps
